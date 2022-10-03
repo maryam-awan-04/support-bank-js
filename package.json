@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@jcbuisson/readlinesync": "^1.0.2",
+    "papaparse": "^5.3.2"
+  }
 }
